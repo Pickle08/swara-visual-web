@@ -34,7 +34,7 @@ const Navbar = () => {
                 {/* Logo */}
                 <div className="flex items-center">
                     <img
-                        src="/image/logo/codex.webp"
+                        src="/image/logo/codex2.webp"
                         alt="Logo"
                         className="h-14 md:h-20 w-auto object-contain cursor-pointer"
                         onClick={() =>
